@@ -1,0 +1,11 @@
+stream.lo: amrwbenc/src/stream.c amrwbenc/inc/stream.h \
+  common/include/voMem.h common/include/voIndex.h \
+  common/include/voType.h
+
+amrwbenc/inc/stream.h:
+
+common/include/voMem.h:
+
+common/include/voIndex.h:
+
+common/include/voType.h:
