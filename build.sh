@@ -76,7 +76,6 @@ for arch in $ARCHS; do
 done
 
 # 制作通用静态库
-# http://blog.csdn.net/cuiweijie3/article/details/8671240
 
 for i in $LIBS; do
   input=""
